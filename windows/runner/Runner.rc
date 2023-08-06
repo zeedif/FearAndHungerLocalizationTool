@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.zeepubs.zeedif.fhtool" "\0"
-            VALUE "FileDescription", "fear_and_hunger_localization_tool" "\0"
+            VALUE "CompanyName", "Zeedif" "\0"
+            VALUE "FileDescription", "Fear and Hunger: Localization Tool" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "fear_and_hunger_localization_tool" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.zeepubs.zeedif.fhtool. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 Zeedif. All rights reserved." "\0"
             VALUE "OriginalFilename", "fear_and_hunger_localization_tool.exe" "\0"
             VALUE "ProductName", "fear_and_hunger_localization_tool" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"

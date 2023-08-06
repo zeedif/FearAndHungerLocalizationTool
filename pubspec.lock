@@ -230,6 +230,19 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.2"
+  flutter_localizations:
+    dependency: "direct main"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  flutter_meedu:
+    dependency: "direct main"
+    description:
+      name: flutter_meedu
+      sha256: "7be568c2df5036cd050358b589f2b3de3318562710f9a64ea364da5fd7eeafe7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.3.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -240,6 +253,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  freezed:
+    dependency: "direct dev"
+    description:
+      name: freezed
+      sha256: "83462cfc33dc9680533a7f3a4a6ab60aa94f287db5f4ee6511248c22833c497f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.2"
+  freezed_annotation:
+    dependency: "direct main"
+    description:
+      name: freezed_annotation
+      sha256: c3fd9336eb55a38cc1bbd79ab17573113a8deccd0ecbbf926cca3c62803b5c2d
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.1"
   frontend_server_client:
     dependency: transitive
     description:
@@ -280,6 +309,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      sha256: a3715e3bc90294e971cb7dc063fbf3cd9ee0ebf8604ffeafabd9e6f16abbdbe6
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.18.0"
   io:
     dependency: transitive
     description:
@@ -344,6 +381,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.2.0"
+  meedu:
+    dependency: transitive
+    description:
+      name: meedu
+      sha256: "2cac0971ea211b1a18e3c4f038369f8ac57401760342da16d9e4e9d043f7de38"
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.0.2"
   meta:
     dependency: transitive
     description:
@@ -440,6 +485,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.3"
+  resizable_widget:
+    dependency: "direct main"
+    description:
+      name: resizable_widget
+      sha256: db2919754b93f386b9b3fb15e9f48f6c9d6d41f00a24397629133c99df86606a
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.5"
   shared_preferences:
     dependency: "direct main"
     description:

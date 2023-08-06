@@ -5,6 +5,7 @@ targets:
         generate_for:
           include:
             - "lib/presentation/pages/**_state.dart"
+            - "lib/presentation/widgets/**/**_state.dart"
       json_serializable:
         generate_for:
           include:
